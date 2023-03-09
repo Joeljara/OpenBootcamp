@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>Ejercicio 02/2 - Tablas en HTML</head>
+    <body>
+        <h3>Libros xd</h3>
+        <table>
+            <tr>
+                <th>Título</th>
+                <TH>Autor</TH>
+                <th>Año de publicacíon</th>
+                <th>Enlace a Amazon</th>
+            </tr>
+            <tr>
+                <th>Brave New World</th>
+                <th>Aldous Huxley</th>
+                <th>1932</th>
+                <th><a href="https://www.amazon.com/-/es/Aldous-Huxley/dp/0060850523">Brave new world en Amazon</a></th>
+            </tr>
+            <tr>
+                <th>1984</th>
+                <th>George Orwell</th>
+                <th>1949</th>
+                <th><a href="https://www.amazon.com/-/es/George-Orwell/dp/0451524934/ref=d_bmx_dp_91jaeapo_sccl_2_1/142-8295060-2837022?pd_rd_w=DK61A&content-id=amzn1.sym.0d1fa5f0-4888-492a-b542-cc9c7a30008b&pf_rd_p=0d1fa5f0-4888-492a-b542-cc9c7a30008b&pf_rd_r=9G5HVEVEJ02EW3K727DX&pd_rd_wg=aP3i4&pd_rd_r=398e0faa-f592-4942-9a30-ebe5de8973c4&pd_rd_i=0451524934&psc=1">1984 en Amazon</a></th>
+            </tr>
+            <tr>
+                <th>Anatomía artística</th>
+                <th>Michel Lauricella</th>
+                <th>2020</th>
+                <th><a href="https://www.amazon.com/-/es/Michel-Lauricella/dp/8425228980/ref=sr_1_1?crid=3QIX52K5MDPK6&keywords=anatomia+artistica+michel+lauricella&qid=1678377618&s=books&sprefix=Anatomia+artistica+mi%2Cstripbooks-intl-ship%2C253&sr=1-1">Anatomia artística en Amazon</a></th>
+            </tr>
+            <tr>
+        </table>   
+    </body>
+</html>
