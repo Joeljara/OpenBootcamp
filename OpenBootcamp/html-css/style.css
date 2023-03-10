@@ -1,0 +1,16 @@
+#elemento-1 {
+color: red;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;1,300&display=swap');
+
+html {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: medium;
+    font-style: italic;
+
+}
+
+.lista-1 {
+    font-size: 2rem;
+}
